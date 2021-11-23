@@ -1,0 +1,21 @@
+LaDD Golden Standard files: Participants + tiers
+
+Babycorpus (5 minutes):
+CHI: vcm, lex
+MA1: MA1, xds
+UC1: UC1, xds
+
+InGaze (5 minutes):
+CHI: vcm, lex, mwu
+FA1: FA1, sen, xds
+
+Kindercorpus (5 minutes):
+CHI: CHI, xds
+FA1: FA1, xds
+
+Eindbaas (2 minutes):
+CHI: CHI, xds
+FA1: FA1, xds
+FA2: FA2, xds
+MA1: MA1, xds
+FC1: FC1, xds
