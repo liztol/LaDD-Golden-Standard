@@ -1,0 +1,166 @@
+CHI	CHI	2058	3028	970	de boerderij.
+CHI	CHI	5031	6264	1233	een boerderij?
+CHI	CHI	8632	9530	898	een boerderij.
+CHI	CHI	18627	20084	1457	au, au, -a. 
+CHI	CHI	22399	22993	594	&=mumbles.
+CHI	CHI	32798	33329	531	mama.
+CHI	CHI	34857	35241	384	mama.
+CHI	CHI	36030	37105	1075	xxx.
+CHI	CHI	47830	49408	1578	dan mag ik een ijsje?
+CHI	CHI	54607	54902	295	aard-!
+CHI	CHI	58409	59570	1161	met aardbeien?
+CHI	CHI	65410	68926	3516	ik wil met aard-, met aard-, met suiker.
+CHI	CHI	69406	69577	171	&=gasps.
+CHI	CHI	80142	81816	1674	ja, ik xxx ook.
+CHI	CHI	87730	92902	5172	xxx zure lap.
+CHI	CHI	96587	98211	1624	ja, ik houd van zure lap-.
+CHI	CHI	104184	106780	2596	ik wou alleen maar lekkere dingen.
+CHI	CHI	110869	111380	511	nee.
+CHI	CHI	112048	112167	119	eh.
+CHI	CHI	114850	115564	714	&=laughs.
+CHI	CHI	118868	119995	1127	en die van mij no-.
+FA1	FA1	20084	20549	465	&=laugh.
+FA1	FA1	35821	36382	561	ja schatje?
+FA1	FA1	37842	38957	1115	eh ja, is goed, pak maar.
+FA1	FA1	40417	41712	1295	maar Naam, ik wil ook wel.
+FA1	FA1	41714	43847	2133	oh, heb je de cherry, jawel, je hebt wel de cherry xxx.
+FA1	FA1	44090	47215	3125	zie, ik wil nu wel dat je eerst even de bord leeg eet alsjeblieft.
+FA1	FA1	50083	58797	8714	ik heb geen ijsje, ik heb vanille vla en aardbeitjes, en als als jullie, als jullie daar ook wat van willen is dat helemaal goed, dat kan prima.
+FA1	FA1	59572	65720	6148	met aardbeien, geen extra suiker, want vanille vla is al suiker genoeg &=laugh.
+FA1	FA1	70297	73513	3216	dan doe ik er extra denkbeeldige suiker overheen.
+FA1	FA1	80460	81528	1068	oh, xxx.
+FA1	FA1	82288	82794	506	ook.
+FA1	FA1	89272	90429	1157	wat wil jij vertellen, schatje?
+FA1	FA1	93942	94627	685	oh, vertel maar.
+FA1	FA1	94709	94942	233	vertel.
+FA1	FA1	107282	107431	149	ja.
+FA1	FA1	108422	110799	2377	xxx eigenlijk moeten we nog een schone luier vin-.
+FA1	FA1	111739	112031	292	mh.
+FA1	FA1	112938	114217	1279	hé, waar gaat mijn bord naartoe?
+FA1	FA1	114839	115285	446	&=laughs.
+FA1	FA1	117834	118236	402	xxx.
+xds@FA1	FA1	20084	20549	465	U
+xds@FA1	FA1	35821	36382	561	C
+xds@FA1	FA1	37842	38957	1115	C
+xds@FA1	FA1	40417	41712	1295	C
+xds@FA1	FA1	41714	43847	2133	C
+xds@FA1	FA1	44090	47215	3125	C
+xds@FA1	FA1	50083	58797	8714	C
+xds@FA1	FA1	59572	65720	6148	C
+xds@FA1	FA1	70297	73513	3216	C
+xds@FA1	FA1	80460	81528	1068	C
+xds@FA1	FA1	82288	82794	506	U
+xds@FA1	FA1	89272	90429	1157	C
+xds@FA1	FA1	93942	94627	685	C
+xds@FA1	FA1	94709	94942	233	C
+xds@FA1	FA1	107282	107431	149	C
+xds@FA1	FA1	108422	110799	2377	C
+xds@FA1	FA1	111739	112031	292	C
+xds@FA1	FA1	112938	114217	1279	U
+xds@FA1	FA1	114839	115285	446	U
+xds@FA1	FA1	117834	118236	402	U
+xds@CHI	CHI	2058	3028	970	U
+xds@CHI	CHI	5031	6264	1233	U
+xds@CHI	CHI	8632	9530	898	U
+xds@CHI	CHI	18627	20084	1457	U
+xds@CHI	CHI	22399	22993	594	U
+xds@CHI	CHI	32798	33329	531	A
+xds@CHI	CHI	34857	35241	384	A
+xds@CHI	CHI	36030	37105	1075	A
+xds@CHI	CHI	47830	49408	1578	A
+xds@CHI	CHI	54607	54902	295	A
+xds@CHI	CHI	58409	59570	1161	A
+xds@CHI	CHI	65410	68926	3516	A
+xds@CHI	CHI	69406	69577	171	U
+xds@CHI	CHI	80142	81816	1674	A
+xds@CHI	CHI	87730	92902	5172	U
+xds@CHI	CHI	96587	98211	1624	A
+xds@CHI	CHI	104184	106780	2596	U
+xds@CHI	CHI	110869	111380	511	A
+xds@CHI	CHI	112048	112167	119	U
+xds@CHI	CHI	114850	115564	714	U
+xds@CHI	CHI	118868	119995	1127	A
+FC1	FC1	16799	16977	178	heh.
+FC1	FC1	25654	27917	2263	ja, ik ben echt gek op poesjes.
+FC1	FC1	79238	79427	189	ja.
+FC1	FC1	87934	93558	5624	ik wil iets vertellen xxx.
+FC1	FC1	95173	96429	1256	eh, ik heb een xxx.
+FC1	FC1	97537	98553	1016	&=roars.
+FC1	FC1	98556	103192	4636	ik wou lekker snoep en ijs en pizza en drop.
+xds@FC1	FC1	16799	16977	178	U
+xds@FC1	FC1	25654	27917	2263	A
+xds@FC1	FC1	79238	79427	189	A
+xds@FC1	FC1	87934	93558	5624	B
+xds@FC1	FC1	95173	96429	1256	A
+xds@FC1	FC1	97537	98553	1016	U
+xds@FC1	FC1	98556	103192	4636	U
+FA2	FA2	3747	3974	227	-rij.
+FA2	FA2	6162	6915	753	een boerderij.
+FA2	FA2	14120	14568	448	wat is dit?
+FA2	FA2	22826	24384	1558	je bent wel echt gek op poejses, of niet?
+FA2	FA2	27845	29452	1607	volgens mij is iedereen gek op poesjes.
+FA2	FA2	30071	32837	2766	hé, je eet liever van andermans bord dan van je eigen bord, of niet?
+FA2	FA2	69752	71287	1535	wil je suiker met xxx.
+FA2	FA2	76849	79219	2370	oh, heb jij een snoepje gekregen, Naam?
+FA2	FA2	79701	80205	504	lekker.
+FA2	FA2	84295	85376	1081	hé, ga maar even zitten schatje.
+FA2	FA2	86498	87811	1313	xxx eten opeten.
+FA2	FA2	98099	98386	287	xxx.
+FA2	FA2	114316	114422	106	oh.
+FA2	FA2	115820	118532	2712	als we nou jouw stoel naar voren zetten in plaats van het xxx.
+xds@FA2	FA2	3747	3974	227	C
+xds@FA2	FA2	6162	6915	753	C
+xds@FA2	FA2	14120	14568	448	C
+xds@FA2	FA2	22826	24384	1558	C
+xds@FA2	FA2	27845	29452	1607	C
+xds@FA2	FA2	30071	32837	2766	C
+xds@FA2	FA2	69752	71287	1535	C
+xds@FA2	FA2	76849	79219	2370	C
+xds@FA2	FA2	79701	80205	504	C
+xds@FA2	FA2	84295	85376	1081	C
+xds@FA2	FA2	86498	87811	1313	C
+xds@FA2	FA2	98099	98386	287	U
+xds@FA2	FA2	114316	114422	106	U
+xds@FA2	FA2	115820	118532	2712	C
+MA1	MA1	521	1534	1013	Naam, ga eens zitten schat.
+MA1	MA1	3544	5538	1994	even aan tafel zitten, je kan het zelf xxx.
+MA1	MA1	6714	8386	1672	je kan het ook zien als je zit, lieverd.
+MA1	MA1	8388	9239	851	Even dooreten, kom.
+MA1	MA1	20873	22042	1169	ja, lieverd, dat poesje.
+MA1	MA1	44095	44395	300	dat kan.
+MA1	MA1	73645	77447	3802	de dames hebben ook al een zure lap op, dus suiker hebben ze al binnengekregen, dus eh. 
+MA1	MA1	78976	79046	70	ja.
+MA1	MA1	83016	83554	538	Naam.
+MA1	MA1	90892	91300	408	mh.
+MA1	MA1	93563	93842	279	ja.
+MA1	MA1	94878	95320	442	lekker.
+MA1	MA1	98663	98730	67	xxx.
+MA1	MA1	102106	102266	160	ja.
+MA1	MA1	103429	103552	123	ja.
+MA1	MA1	104324	104571	247	xxx.
+MA1	MA1	106801	111636	4835	xxx is alleen maar goed als je ook je eigen bordje leeg eet xxx bord gaat eten.
+xds@MA1	MA1	521	1534	1013	C
+xds@MA1	MA1	3544	5538	1994	C
+xds@MA1	MA1	6714	8386	1672	C
+xds@MA1	MA1	8388	9239	851	C
+xds@MA1	MA1	20873	22042	1169	C
+xds@MA1	MA1	44095	44395	300	U
+xds@MA1	MA1	73645	77447	3802	B
+xds@MA1	MA1	78976	79046	70	A
+xds@MA1	MA1	83016	83554	538	C
+xds@MA1	MA1	90892	91300	408	U
+xds@MA1	MA1	93563	93842	279	U
+xds@MA1	MA1	94878	95320	442	C
+xds@MA1	MA1	98663	98730	67	U
+xds@MA1	MA1	102106	102266	160	U
+xds@MA1	MA1	103429	103552	123	U
+xds@MA1	MA1	104324	104571	247	U
+xds@MA1	MA1	106801	111636	4835	C
+EE1	EE1	916	13870	12954	 xxx.
+EE1	EE1	14146	56515	42369	 <poesje mauw, kom eens gauw, ik heb lekkere melk voor jou! En voor mij, rijstebrij. O, wat heerlijk smullen wij hondje blaf, waf, waf, waf, blijf jij van mijn lekkers af. Deze koek is van mij. En voor jou is er ook wat bij kipje tok, tok, tok, tok, kom eens in mijn kippenhok. Leg voor mij, (ee)n lekker ei. O, wat heerlijk smullen wij> [=! sings].
+EE1	EE1	62332	94338	32006	 xxx.
+EE1	EE1	99802	119992	20190	 xxx.
+xds@EE1	EE1	916	13870	12954	O
+xds@EE1	EE1	14146	56515	42369	O
+xds@EE1	EE1	62332	94338	32006	O
+xds@EE1	EE1	99802	119992	20190	O
