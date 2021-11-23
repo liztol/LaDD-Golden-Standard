@@ -1,0 +1,13 @@
+name: R-script
+title: R-script
+username:
+account: laddgoldenstandard
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3733947
+bundleId: 5270721
+url: https://laddgoldenstandard.shinyapps.io/R-script/
+when: 1637332663.13148
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: R-script errors.docx
